@@ -1,6 +1,6 @@
 # PSG_Car_Rental_Management_System
 
-## Follow the following instructions to run:
+## Follow the following instructions to run project:
 
 1. Download and install [xampp-windows-x64-8.1.12-0-VS16-installer.exe](https://www.apachefriends.org/) or You can also download another version like wamp server.
 2. Clone this Repository: `git clone https://github.com/piyushsinghgaur/PSG_Car_Rental`
